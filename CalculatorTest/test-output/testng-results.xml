@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="75" started-at="2020-05-14T22:41:42 CEST" finished-at="2020-05-14T22:41:42 CEST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="75" started-at="2020-05-14T22:41:42 CEST" finished-at="2020-05-14T22:41:42 CEST">
+      <class name="test.CalculatorTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:test.CalculatorTest@731a74c]" name="setup" is-config="true" duration-ms="7" started-at="2020-05-14T22:41:42 CEST" finished-at="2020-05-14T22:41:42 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getValue()[pri:0, instance:test.CalculatorTest@731a74c]" name="getValue" is-config="true" duration-ms="0" started-at="2020-05-14T22:41:42 CEST" finished-at="2020-05-14T22:41:42 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getValue -->
+        <test-method status="PASS" signature="addTest(double)[pri:0, instance:test.CalculatorTest@731a74c]" name="addTest" duration-ms="8" started-at="2020-05-14T22:41:42 CEST" data-provider="ulazneVrednosti" finished-at="2020-05-14T22:41:42 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTest -->
+        <test-method status="PASS" signature="getValue()[pri:0, instance:test.CalculatorTest@731a74c]" name="getValue" is-config="true" duration-ms="0" started-at="2020-05-14T22:41:42 CEST" finished-at="2020-05-14T22:41:42 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getValue -->
+        <test-method status="PASS" signature="addTest(double)[pri:0, instance:test.CalculatorTest@731a74c]" name="addTest" duration-ms="1" started-at="2020-05-14T22:41:42 CEST" data-provider="ulazneVrednosti" finished-at="2020-05-14T22:41:42 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTest -->
+        <test-method status="PASS" signature="addTest(double)[pri:0, instance:test.CalculatorTest@731a74c]" name="addTest" duration-ms="1" started-at="2020-05-14T22:41:42 CEST" data-provider="ulazneVrednosti" finished-at="2020-05-14T22:41:42 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTest -->
+        <test-method status="PASS" signature="getValue()[pri:0, instance:test.CalculatorTest@731a74c]" name="getValue" is-config="true" duration-ms="0" started-at="2020-05-14T22:41:42 CEST" finished-at="2020-05-14T22:41:42 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getValue -->
+        <test-method status="PASS" signature="addTest(double)[pri:0, instance:test.CalculatorTest@731a74c]" name="addTest" duration-ms="1" started-at="2020-05-14T22:41:42 CEST" data-provider="ulazneVrednosti" finished-at="2020-05-14T22:41:42 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTest -->
+        <test-method status="PASS" signature="getValue()[pri:0, instance:test.CalculatorTest@731a74c]" name="getValue" is-config="true" duration-ms="0" started-at="2020-05-14T22:41:42 CEST" finished-at="2020-05-14T22:41:42 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getValue -->
+        <test-method status="PASS" signature="getValue()[pri:0, instance:test.CalculatorTest@731a74c]" name="getValue" is-config="true" duration-ms="0" started-at="2020-05-14T22:41:42 CEST" finished-at="2020-05-14T22:41:42 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getValue -->
+        <test-method status="PASS" signature="divTest(double)[pri:0, instance:test.CalculatorTest@731a74c]" name="divTest" duration-ms="1" started-at="2020-05-14T22:41:42 CEST" data-provider="ulazneVrednosti" finished-at="2020-05-14T22:41:42 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divTest -->
+        <test-method status="PASS" signature="getValue()[pri:0, instance:test.CalculatorTest@731a74c]" name="getValue" is-config="true" duration-ms="1" started-at="2020-05-14T22:41:42 CEST" finished-at="2020-05-14T22:41:42 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getValue -->
+        <test-method status="PASS" signature="divTest(double)[pri:0, instance:test.CalculatorTest@731a74c]" name="divTest" duration-ms="0" started-at="2020-05-14T22:41:42 CEST" data-provider="ulazneVrednosti" finished-at="2020-05-14T22:41:42 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divTest -->
+        <test-method status="PASS" signature="getValue()[pri:0, instance:test.CalculatorTest@731a74c]" name="getValue" is-config="true" duration-ms="0" started-at="2020-05-14T22:41:42 CEST" finished-at="2020-05-14T22:41:42 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getValue -->
+        <test-method status="PASS" signature="divTest(double)[pri:0, instance:test.CalculatorTest@731a74c]" name="divTest" duration-ms="1" started-at="2020-05-14T22:41:42 CEST" data-provider="ulazneVrednosti" finished-at="2020-05-14T22:41:42 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divTest -->
+        <test-method status="PASS" signature="divTest(double)[pri:0, instance:test.CalculatorTest@731a74c]" name="divTest" duration-ms="1" started-at="2020-05-14T22:41:42 CEST" data-provider="ulazneVrednosti" finished-at="2020-05-14T22:41:42 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divTest -->
+        <test-method status="PASS" signature="getValue()[pri:0, instance:test.CalculatorTest@731a74c]" name="getValue" is-config="true" duration-ms="0" started-at="2020-05-14T22:41:42 CEST" finished-at="2020-05-14T22:41:42 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getValue -->
+        <test-method status="PASS" signature="getValue()[pri:0, instance:test.CalculatorTest@731a74c]" name="getValue" is-config="true" duration-ms="1" started-at="2020-05-14T22:41:42 CEST" finished-at="2020-05-14T22:41:42 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getValue -->
+        <test-method status="PASS" signature="setValueTest(double)[pri:0, instance:test.CalculatorTest@731a74c]" name="setValueTest" duration-ms="1" started-at="2020-05-14T22:41:42 CEST" data-provider="ulazneVrednosti" finished-at="2020-05-14T22:41:42 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValueTest -->
+        <test-method status="PASS" signature="getValue()[pri:0, instance:test.CalculatorTest@731a74c]" name="getValue" is-config="true" duration-ms="1" started-at="2020-05-14T22:41:42 CEST" finished-at="2020-05-14T22:41:42 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getValue -->
+        <test-method status="PASS" signature="setValueTest(double)[pri:0, instance:test.CalculatorTest@731a74c]" name="setValueTest" duration-ms="0" started-at="2020-05-14T22:41:42 CEST" data-provider="ulazneVrednosti" finished-at="2020-05-14T22:41:42 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValueTest -->
+        <test-method status="PASS" signature="getValue()[pri:0, instance:test.CalculatorTest@731a74c]" name="getValue" is-config="true" duration-ms="0" started-at="2020-05-14T22:41:42 CEST" finished-at="2020-05-14T22:41:42 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getValue -->
+        <test-method status="PASS" signature="setValueTest(double)[pri:0, instance:test.CalculatorTest@731a74c]" name="setValueTest" duration-ms="1" started-at="2020-05-14T22:41:42 CEST" data-provider="ulazneVrednosti" finished-at="2020-05-14T22:41:42 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValueTest -->
+        <test-method status="PASS" signature="getValue()[pri:0, instance:test.CalculatorTest@731a74c]" name="getValue" is-config="true" duration-ms="1" started-at="2020-05-14T22:41:42 CEST" finished-at="2020-05-14T22:41:42 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getValue -->
+        <test-method status="PASS" signature="setValueTest(double)[pri:0, instance:test.CalculatorTest@731a74c]" name="setValueTest" duration-ms="0" started-at="2020-05-14T22:41:42 CEST" data-provider="ulazneVrednosti" finished-at="2020-05-14T22:41:42 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValueTest -->
+      </class> <!-- test.CalculatorTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
