@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SellerAreaSuite" duration-ms="93785" started-at="2020-05-15T20:23:06 CEST" finished-at="2020-05-15T20:24:40 CEST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="93785" started-at="2020-05-15T20:23:06 CEST" finished-at="2020-05-15T20:24:40 CEST">
+      <class name="test.LogInAndRegisterTest">
+        <test-method status="PASS" signature="startUpGlobal()[pri:0, instance:test.LogInAndRegisterTest@480bdb19]" name="startUpGlobal" is-config="true" duration-ms="9055" started-at="2020-05-15T20:23:06 CEST" finished-at="2020-05-15T20:23:15 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUpGlobal -->
+        <test-method status="PASS" signature="logInNonRegisteredUsertest()[pri:1, instance:test.LogInAndRegisterTest@480bdb19]" name="logInNonRegisteredUsertest" duration-ms="1204" started-at="2020-05-15T20:23:15 CEST" finished-at="2020-05-15T20:23:17 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInNonRegisteredUsertest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:test.LogInAndRegisterTest@480bdb19]" name="close" is-config="true" duration-ms="162" started-at="2020-05-15T20:23:17 CEST" finished-at="2020-05-15T20:23:17 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- test.LogInAndRegisterTest -->
+      <class name="test.ProductMenagementTest">
+        <test-method status="PASS" signature="startUpGlobal()[pri:0, instance:test.ProductMenagementTest@2a556333]" name="startUpGlobal" is-config="true" duration-ms="8763" started-at="2020-05-15T20:23:17 CEST" finished-at="2020-05-15T20:23:26 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUpGlobal -->
+        <test-method status="PASS" signature="logIn()[pri:0, instance:test.ProductMenagementTest@2a556333]" name="logIn" is-config="true" duration-ms="5535" started-at="2020-05-15T20:23:26 CEST" finished-at="2020-05-15T20:23:31 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method status="PASS" signature="addProducts()[pri:1, instance:test.ProductMenagementTest@2a556333]" name="addProducts" duration-ms="47608" started-at="2020-05-15T20:23:31 CEST" finished-at="2020-05-15T20:24:19 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProducts -->
+        <test-method status="PASS" signature="close()[pri:0, instance:test.ProductMenagementTest@2a556333]" name="close" is-config="true" duration-ms="80" started-at="2020-05-15T20:24:19 CEST" finished-at="2020-05-15T20:24:19 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="startUpGlobal()[pri:0, instance:test.ProductMenagementTest@2a556333]" name="startUpGlobal" is-config="true" duration-ms="7002" started-at="2020-05-15T20:24:19 CEST" finished-at="2020-05-15T20:24:26 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUpGlobal -->
+        <test-method status="PASS" signature="logIn()[pri:0, instance:test.ProductMenagementTest@2a556333]" name="logIn" is-config="true" duration-ms="5691" started-at="2020-05-15T20:24:26 CEST" finished-at="2020-05-15T20:24:31 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method status="PASS" signature="priceChange()[pri:2, instance:test.ProductMenagementTest@2a556333]" name="priceChange" duration-ms="8536" started-at="2020-05-15T20:24:31 CEST" finished-at="2020-05-15T20:24:40 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- priceChange -->
+        <test-method status="PASS" signature="close()[pri:0, instance:test.ProductMenagementTest@2a556333]" name="close" is-config="true" duration-ms="104" started-at="2020-05-15T20:24:40 CEST" finished-at="2020-05-15T20:24:40 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- test.ProductMenagementTest -->
+    </test> <!-- Test -->
+  </suite> <!-- SellerAreaSuite -->
+</testng-results>
